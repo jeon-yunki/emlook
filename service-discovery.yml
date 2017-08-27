@@ -21,5 +21,5 @@ spring:
     name: service-discovery
 
   # Discovery Server Dashboard uses FreeMarker.  Don't want Thymeleaf templates
-  thymeleaf:
-    enabled: false     # Disable Thymeleaf 
+#  thymeleaf:
+#    enabled: false     # Disable Thymeleaf 

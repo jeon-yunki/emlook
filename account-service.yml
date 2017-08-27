@@ -10,7 +10,7 @@ greeting: "개발서버"
 
 ---
 
-spring
+spring:
   profiles: local
   
 greeting: "로컬서버"

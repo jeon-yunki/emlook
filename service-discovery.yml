@@ -14,7 +14,7 @@ eureka:
    
      
 server:
-  port: 9000   # HTTP (Tomcat) port
+  port: 9090   # HTTP (Tomcat) port
 
 spring:
   application:

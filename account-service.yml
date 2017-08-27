@@ -5,7 +5,7 @@ greeting: "안녕하세요"
 spring:
   profiles: dev
   
-greeting: "개발서버"
+greeting: "안녕하세요. 개발서버에 오신것을 환영합니다."
 
 
 ---
@@ -13,4 +13,4 @@ greeting: "개발서버"
 spring:
   profiles: local
   
-greeting: "로컬서버"
+greeting: "안녕하세요. 로컬서버에 오신것을 환영합니다."

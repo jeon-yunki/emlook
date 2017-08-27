@@ -18,7 +18,7 @@ server:
 
 spring:
   application:
-    name: discovery-service
+    name: service-discovery
 
   # Discovery Server Dashboard uses FreeMarker.  Don't want Thymeleaf templates
   thymeleaf:

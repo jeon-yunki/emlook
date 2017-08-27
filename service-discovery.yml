@@ -15,10 +15,6 @@ eureka:
 server:
   port: 10092   # HTTP (Tomcat) port
 
-spring:
-  application:
-    name: service-discovery
-
-  # Discovery Server Dashboard uses FreeMarker.  Don't want Thymeleaf templates
+# Discovery Server Dashboard uses FreeMarker.  Don't want Thymeleaf templates
 #  thymeleaf:
 #    enabled: false     # Disable Thymeleaf 

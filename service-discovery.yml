@@ -8,8 +8,7 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
   server:
-    enableSelfPreservation: true 
-
+    enableSelfPreservation: false
    
      
 server:

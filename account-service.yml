@@ -1,0 +1,16 @@
+greeting: "안녕하세요"
+
+---
+
+spring:
+  profiles:dev
+  
+greeting: "개발서버"
+
+
+---
+
+spring
+  profiles: local
+  
+greeting: "로컬서버"
